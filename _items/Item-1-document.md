@@ -1,18 +1,19 @@
 ---
 layout: item
-format: document
-title: "ACLS Digital Justice Development Grant"
-author: "DigitalArc Platform Team"
-contributor: "DigitalArc Platform Team"
-group: "IUB-OC"
-creator: "DigitalArc Platform Team"
-externalurl: https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024
+format: photo
+title: "1857-1977 One Hundred and Twentieth Anniversary of Bethel African Methodist Episcopal Church (Oxford, Ohio)"
+author: 
+contributor: "Rt. Rev. Vinton R Anderson (Presiding Bishop of the Third Episcopal District), Dr. E.T. Wikle (Presiding Elder of Dayton Districy), Rev. Robert T. Davis, Minister"
+group: 
+creator: "Bethel African Methodist Episcopal Church (Oxford, Ohio)"
+externalurl: 
 embedurl: 
-creationdate: 2024-05-22
-type: "website"
-shortdesc: "This is an example of how to include a document (scanned or screencaptured). The development of the DigitalArc Toolkit was funded by an ACLS Digital Social Justice grant in 2024."
-categories: [ News Articles, Web Pages ]
+creationdate: 
+type: "Program booklets"
+shortdesc: "Booklet celebrating the 120th anniversary of Bethel African Methodist Episcopal Church in Oxford, Ohio.."
+categories: [ Celebrations]
 tags: [  ]
 teammember: 
 ---
+
 
